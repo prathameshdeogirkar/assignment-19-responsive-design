@@ -117,3 +117,25 @@ body {
         }
     }
 
+
+
+
+    @media only screen and (min-width: 768px) and (max-width: 991px) {
+        .content {
+            padding: 20px;
+        }
+
+        .heading {
+            font-size: 24px;
+        }
+
+        .card {
+            width: 45%;
+        }
+
+        .footer-content {
+            font-size: large;
+        }
+    }
+
+
