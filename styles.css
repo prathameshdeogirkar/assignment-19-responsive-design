@@ -160,3 +160,23 @@ body {
     }
 
 
+
+    @media only screen and (max-width: 599px) {
+        .content {
+            padding: 10px;
+        }
+
+        .heading {
+            font-size: 16px;
+        }
+
+        .card {
+            width: 90%;
+        }
+
+        .footer-content {
+            font-size: medium;
+        }
+    }
+
+
